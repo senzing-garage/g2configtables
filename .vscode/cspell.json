@@ -1,0 +1,28 @@
+{
+  // Version of the setting file.  Always 0.2
+  "version": "0.2",
+  // language - current active spelling language
+  "language": "en",
+  // words - list of words to be always considered correct
+  "words": [
+      "analysing",
+      "CCLA",
+      "CODEOWNER",
+      "configtables",
+      "DSRC",
+      "ERRULE",
+      "ETYPE",
+      "FELEM",
+      "FTYPE",
+      "ICLA",
+      "pydev",
+      "pylint",
+      "RTYPE",
+      "Senzing",
+      "shellcheck",
+      "stackoverflow"
+    ],
+  "ignorePaths": [
+    ".git/**"
+  ]
+}

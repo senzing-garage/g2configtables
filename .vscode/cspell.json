@@ -2,25 +2,25 @@
   "version": "0.2",
   "language": "en",
   "words": [
+    "analysing",
     "CCLA",
     "CODEOWNER",
+    "configtables",
+    "cooldown",
     "DSRC",
     "ERRULE",
+    "esbenp",
     "ETYPE",
     "FELEM",
     "FTYPE",
     "ICLA",
-    "RTYPE",
-    "Senzing",
-    "analysing",
-    "configtables",
-    "esbenp",
+    "kernelsam",
     "pydev",
     "pylint",
+    "RTYPE",
+    "Senzing",
     "shellcheck",
     "stackoverflow"
   ],
-  "ignorePaths": [
-    ".git/**"
-  ]
+  "ignorePaths": [".git/**"]
 }
